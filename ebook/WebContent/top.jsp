@@ -26,7 +26,6 @@
 			<th>発行日</th>
 			<th>値段</th>
 			<th>ISBN</th>
-
 		</tr>
 	</table>
 <footer>
